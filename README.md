@@ -1,5 +1,5 @@
 <h1 align="center">
-	Money Controller
+	Styled Components
 </h1>
 
 <p align="center">ReactJS - Styled Components</p>
