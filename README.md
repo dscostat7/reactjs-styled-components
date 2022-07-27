@@ -2,7 +2,7 @@
 	Styled Components
 </h1>
 
-<p align="center">ReactJS - Styled Components</p>
+<p align="center"> ReactJS - Styled Components </p>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/ReactJS-blue">
