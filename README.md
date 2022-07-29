@@ -31,6 +31,10 @@ A platform for study styled components with ReactJS
 
 ---
 
+<p>Run:</p>
+<strong>npm install</strong>
+<strong>npm start</strong>
+
 Developed by <a href="https://beacons.ai/dscostat7/" target="_blank">Diego Souza</a>
 
 
